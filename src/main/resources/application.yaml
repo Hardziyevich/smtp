@@ -1,0 +1,10 @@
+mail:
+  host:
+  port:
+  username:
+  password:
+  auth: false
+  to:
+  starttls: false
+server:
+  port: 8180
